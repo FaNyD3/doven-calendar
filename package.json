@@ -54,7 +54,7 @@
     "@angular/common": "^8.2.14",
     "@angular/compiler": "^8.2.14",
     "@angular/compiler-cli": "^8.2.14",
-    "@angular/core": "^8.2.14",
+    "@angular/core": "^11.0.5",
     "@angular/forms": "^8.2.14",
     "@angular/language-service": "^8.2.14",
     "@angular/material": "^8.2.3",
@@ -99,7 +99,7 @@
   "peerDependencies": {
     "@angular/animations": "^8.2.14",
     "@angular/common": "^8.2.14",
-    "@angular/core": "^8.2.14",
+    "@angular/core": "^11.0.5",
     "angular-calendar": ">=0.28.2",
     "angular-draggable-droppable": ">=4.3.8",
     "angular-resizable-element": ">=3.2.6",
